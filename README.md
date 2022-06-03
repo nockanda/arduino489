@@ -56,8 +56,8 @@ https://github.com/sandeepmistry/arduino-LoRa
   
 (Machine translation)
 
-It's Nokanda's LoRa series that I've been working on for a while!
-In this episode, we will check if the LoRa module sx1276 works normally on the Wemos d1 mini board that Nokanda recently purchased and apply deep sleep!
+It's Nockanda's LoRa series that I've been working on for a while!
+In this episode, we will check if the LoRa module sx1276 works normally on the Wemos d1 mini board that Nockanda recently purchased and apply deep sleep!
 
 Two boards exchange messages with LoRa. The sensor board sends data to LoRa, and then deepsleeps to ensure battery safety!
 
